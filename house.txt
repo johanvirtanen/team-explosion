@@ -1,13 +1,14 @@
-                                         /\
-                                        /  \
-                                       /    \
-                                      /      \
-                                     /	      \
-                                    /	       \
-                                   /            \
-                                  /              \
-                                 /                \
-                                /__________________\
+
+           OOOOO                         /\
+         OOOOOOOOO                      /UU\
+       OOOOOOOOOOOOO     OOO           /UUUU\
+          OOOOOOOO     OOOOOO         /UUUUUU\
+            OOOOO     OOOOOOO        /UUUUUUUU\
+                        OOOO        /UUUUUUUUUU\
+                                   /UUUUUUUUUUUU\
+                                  /UUUUUUUUUUUUUU\
+                                 /UUUUUUUUUUUUUUUU\
+                                /UUUUUUUUUUUUUUUUUU\
        *                       [    __       __     ]
  oo   ***                      [   |  |     |  |    ]
 oooo *****                     [   |__|     |__|    ]
