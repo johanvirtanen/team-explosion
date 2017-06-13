@@ -1,9 +1,9 @@
-                                         /\
-                                        /UU\
-                                       /UUUU\
-                                      /UUUUUU\
-                                     /UUUUUUUU\
-                                    /UUUUUUUUUU\
+           OOOOO                         /\
+         OOOOOOOOO                      /UU\
+       OOOOOOOOOOOOO     OOO           /UUUU\
+          OOOOOOOO     OOOOOO         /UUUUUU\
+            OOOOO     OOOOOOO        /UUUUUUUU\
+                        OOOO        /UUUUUUUUUU\
                                    /UUUUUUUUUUUU\
                                   /UUUUUUUUUUUUUU\
                                  /UUUUUUUUUUUUUUUU\
